@@ -5,8 +5,12 @@ export const HeaderS = styled.div`
   justify-content: center;
 
   & > input {
-    padding: 1em 2em;
-    flex-basis: 70%;
+    padding: 1.5em 2em;
+    flex-basis: 100%;
+    background-color: #25273c;
+    border: none;
+    color: white;
+    border-radius: 0.5em;
   }
 
   & > button {

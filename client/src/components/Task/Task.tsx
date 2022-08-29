@@ -7,7 +7,7 @@ import { TaskS } from "./Task.style";
 export const Task: FC = () => {
   return (
     <TaskS>
-      <p>Task</p>
+      <p>Work</p>
       <div>
         <button>
           <span className="material-symbols-outlined">delete</span>

@@ -6,6 +6,6 @@ export const TaskListS = styled.div`
   margin-top: 2em;
 
   & > * + * {
-    border-top: 0.1em solid white;
+    border-top: 0.1em solid lightgray;
   }
 `;

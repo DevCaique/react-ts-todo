@@ -8,7 +8,6 @@ export const Header: FC = () => {
   return (
     <HeaderS>
       <input type="text" placeholder="Your task..." />
-      <button>Add</button>
     </HeaderS>
   );
 };
